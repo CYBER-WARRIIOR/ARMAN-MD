@@ -1,7 +1,7 @@
 <div align="center"><h1>🛡️ MANNO-BOT-MÐ 🛡️</h1><a href="https://github.com/Itxmanno05/ARMAN-MD"><img src="https://telegra.ph/file/0d0532b7bac17d0c6b3ba.jpg" width="650" height="450"></a></div>
 
 <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SITHUWA+MD+WHATSAPP+BOT" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=MANNO+MD+WHATSAPP+BOT" alt="">
 </p>
 
 ***
