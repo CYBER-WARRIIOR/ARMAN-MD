@@ -1,4 +1,4 @@
-<div align="center"><h1>🧚‍♂️ 𝐒𝐈𝐓𝐇𝐔𝐖𝐀-𝐌𝐃 🧚‍♂️</h1><a href="https://github.com/Sithuwa/SITHUWA-BOT-MD"><img src="https://telegra.ph/file/f9e51e5d61e439020720a.jpg" width="650" height="450"></a></div>
+<div align="center"><h1>🛡️ MANNO-BOT-MÐ 🛡️</h1><a href="https://github.com/Itxmanno05/ARMAN-MD"><img src="https://telegra.ph/file/0d0532b7bac17d0c6b3ba.jpg" width="650" height="450"></a></div>
 
 <p align="center">
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=SITHUWA+MD+WHATSAPP+BOT" alt="">
@@ -6,13 +6,13 @@
 
 ***
 
-<a href="https://github.com/Sithuwa/SITHUWA-MD"><img title="Followers" src="https://img.shields.io/github/followers/Sithuwa?e=flat-square">
-<a href="https://github.com/Sithuwa/SITHUWA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sithuwa/SITHUWA-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Sithuwa/SITHUWA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sithuwa/SITHUWA-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/Sithuwa/SITHUWA-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Sithuwa/SITHUWA-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Sithuwa/SITHUWA-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Sithuwa/SITHUWA-MD?style=flat-square&color=green"></a>
+<a href="https://github.com/Itxmanno05/ARMAN-MD"><img title="Followers" src="https://img.shields.io/github/followers/Itxmanno05?e=flat-square">
+<a href="https://github.com/Itxmanno05/ARMAN-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxmanno05/ARMAN-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Itxmanno05/ARMAN-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itxmanno05/ARMAN-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/Itxmanno05/ARMAN-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxmanno05/ARMAN-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Itxmanno05/ARMAN-MD"><img title="Size" src="https://img.shields.io/github/repo-size/Itxmanno05/ARMAN-MD?style=flat-square&color=green"></a>
 ---
-<a align="center"><img src="https://profile-counter.glitch.me/SITHUWA-MD/count.svg" /></a>
+<a align="center"><img src="https://profile-counter.glitch.me/ARMAN-MD/count.svg" /></a>
 
 <a href="https://m.facebook.com/100049977400815/"><img alt="FaceBook" src="https://img.shields.io/badge/-FaceBook%20-lightgrey?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
 <a href="https://www.youtube.com/channel/UCVwddJDhIDa4FaWM717xaAQ"><img alt="YouTube" src="https://img.shields.io/badge/-YouTube%20-lightgrey?style=for-the-badge&logo=YouTube&logoColor=red"/></a>
@@ -40,7 +40,7 @@
 </h4>
 
 <p align="center" >
-    <a href="https://repl.it/github/Sithuwa/SITHUWA-MD">
+    <a href="https://github.com/Itxmanno05/ARMAN-MD">
     <img src="https://i.ibb.co/zrB5kMh/deploy-on-repl.jpg" width="170px" alt="Deploy on Repl.it" >
     </a>
 </p>
@@ -66,7 +66,7 @@
 </p>
 
 <p align="center" >
-    <a href="https://heroku.com/deploy?template=https://github.com/Sithuwa/SITHUWA-MD">
+    <a href="https://heroku.com/deploy?template=https://github.com/Itxmanno05/ARMAN-MD">
     <img src="https://www.herokucdn.com/deploy/button.png" width="160px" alt="Deploy on Heroku" >
     </a>
 
@@ -90,7 +90,7 @@
 </h4>
       
 <p align="center">
-    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Sithuwa/SITHUWA-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
+    <a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com/Itxmanno05/ARMAN-MD&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=94759333625&env[MONGODB_URI]&&env[OWNER_NAME]=SITHUM&env[KOYEB_API]&env[PREFIX]=.&env[ALIVE_IMG]=https://telegra.ph/file/f9e51e5d61e439020720a.jpg&env[global_url]=instagram.com&env[FAKE_COUNTRY_CODE]=92&env[READ_MESSAGE]=false&env[DISABLE_PM]=false&env[WORKTYPE]=public&env[THEME]=sithuwa-md&env[PACK_INFO]=SITHUWA-MD;BY-SITHUM-KALHARA&name=SITHUWA-MD&env[KOYEB_NAME]=SITHUWA-MD&env[ANTILINK_VALUES]=chat.whatsapp.com&env[PORT]=8000)">
     <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy on Koyeb" width="155px">
     </a>
    
@@ -154,13 +154,13 @@
 
 # Developers
 
-<h2 align="center">SITHUWA-MD
+<h2 align="center">MANNO-MD
 </h2>
 
   <p align="center">
     
-| <a href="https://www.facebook.com/sithum.kalhara.7315?mibextid=ZbWKwL"><img src="https://telegra.ph/file/e76957eb944d94553a0c5.jpg" width=100 height=100></a> |
+| <a href="https://www.facebook.com/profile.php?id=100072531284790&mibextid=ZbWKwL"><img src="https://telegra.ph/file/0d0532b7bac17d0c6b3ba.jpg" width=100 height=100></a> |
 |---|
-| **[Sithum Kalhara](https://github.com/Sithuwa)**</br>Founder & Developer</br>*[Sithum Kalhara]* |
+| **[ARMAN-BLOUCH](https://github.com/Itxmanno05)**</br>Founder & Developer</br>*[Sithum Kalhara]* |
   </p>
 
