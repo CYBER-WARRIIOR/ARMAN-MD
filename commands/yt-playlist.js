@@ -64,8 +64,8 @@ yts( opts, async function ( err, playlist ) {
                                 thumbnail: log0,
                                 renderLargerThumbnail: true,
                                 mediaType: 2,
-                                mediaUrl: 'https://github.com/Sithuwa/SITHUWA-MD',
-                                sourceUrl: 'https://github.com/Sithuwa/SITHUWA-MD'
+                                mediaUrl: 'https://github.com/Itxmanno05/ARMAN-MD',
+                                sourceUrl: 'https://github.com/Itxmanno05/ARMAN-MD'
                             }
                         }
                     }
